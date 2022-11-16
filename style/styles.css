@@ -26,11 +26,9 @@ img {
 }
 
 .center-gif {
-    display: block;
+    display:flex;
     margin: 0 auto 0 auto;
-    margin-left: auto;
-    margin-right: auto;
     width: auto;
     height: 200px;
-    border: 1px solid rgba(203, 166, 247, 50%);
+    border: 2px solid rgba(203, 166, 247, 50%);
 }
