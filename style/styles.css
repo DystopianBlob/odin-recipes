@@ -25,6 +25,11 @@ img {
     height: 300px;
 }
 
+.list-name {
+    text-align: start;
+    text-decoration-line: underline;
+}
+
 .center-gif {
     display:flex;
     margin: 0 auto 0 auto;
